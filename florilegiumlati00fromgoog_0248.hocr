@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florilegiumlati00fromgoog_0248.png"; bbox 0 0 2978 5048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 535 1679 929 1809">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 535 1679 929 1809">
+     <span class='ocr_line' id='line_1_1' title="bbox 535 1679 929 1809; baseline 0.008 -22"><span class='ocrx_word' id='word_1_1' title='bbox 535 1679 695 1790; x_wconf 77' lang='lat' dir='ltr'>Index</span> <span class='ocrx_word' id='word_1_2' title='bbox 730 1680 929 1809; x_wconf 77' lang='lat' dir='ltr'>Rerum,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 353 1921 1109 2016">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 353 1921 1109 2016">
+     <span class='ocr_line' id='line_1_2' title="bbox 353 1921 1109 2016; baseline 0.004 -19"><span class='ocrx_word' id='word_1_3' title='bbox 353 1922 469 2016; x_wconf 65' lang='lat' dir='ltr'><strong>(luae</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 505 1922 584 1996; x_wconf 75' lang='lat' dir='ltr'><strong>{loc</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 616 1921 783 1999; x_wconf 73' lang='lat' dir='ltr'><strong>meno</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 815 1922 1109 2001; x_wconf 72' lang='lat' dir='ltr'><strong>Continentur.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1494 5048">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1494 5048">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1494 5048; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1494 5048; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
